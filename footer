@@ -1,0 +1,4 @@
+G1 Z20.00 F600 ; Move print head up
+G1 X5 Y180 F9000 ; present print
+M84 X Y E ; disable motors
+M77 ; Stop print timer

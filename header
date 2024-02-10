@@ -1,0 +1,3 @@
+M420 S1 ; Enable Jyers Mesh
+M75 ; Start print timer
+G28 ; home all axis
