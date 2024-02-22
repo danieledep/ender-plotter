@@ -1,3 +1,6 @@
 M420 S1 ; Enable Jyers Mesh
 M75 ; Start print timer
 G28 ; home all axis
+
+G01 Z0.100000
+M0 ; Pause to set pen height
